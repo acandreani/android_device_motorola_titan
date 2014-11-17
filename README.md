@@ -1,6 +1,7 @@
 NOT READY! 
 
-Universal device configuration for the Moto G 2014(titan)
+Cyanogenmod Port to Moto G 2014 titan
 ===============================
 
-Copyright 2013 - The CyanogenMod Project
+forked from CM port to Moto G falcon
+Copyright 2014 - The CyanogenMod Project
